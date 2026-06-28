@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="assets/opencode-usage-logo.png" alt="opencode usage" width="600">
+  <img src="assets/opencode-usage-logo.png" alt="opencode usage" width="760">
 </p>
 
 <p align="center">
-  <img src="assets/opencode-usage-hero.png" alt="opencode usage — token and cost stats inside OpenCode" width="760">
+  <img src="assets/opencode-usage-hero.png" alt="opencode usage: token and cost stats inside OpenCode" width="760">
 </p>
 
 <p align="center">
