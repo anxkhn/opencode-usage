@@ -1,0 +1,12 @@
+# OpenCode auto-generated when a plugin is loaded from this dir
+node_modules/
+package.json
+package-lock.json
+bun.lock
+
+# OpenCode per-project state
+.opencode/
+
+# misc
+.DS_Store
+*.log
